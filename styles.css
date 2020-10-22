@@ -1,0 +1,28 @@
+td{
+}
+
+thead{
+    border-top: 0 ;
+    border-bottom: 0;
+}
+
+div{
+  
+}
+
+.table{
+    border-bottom-width: 0 !important;
+}
+
+th{
+    padding: 10px;
+}
+
+tr{
+    width: 100%;
+}
+
+tbody{
+    padding-left: 50px;
+    padding-right: 50px;
+}
